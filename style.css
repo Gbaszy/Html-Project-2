@@ -1,0 +1,52 @@
+body{
+background-color: rgb(216, 213, 16);
+}
+.container{
+    display: flex;
+
+}
+h1{
+color: rgba(22, 11, 61, 0.877);
+text-align: center;
+}
+#Appetizers{
+    background-color: rgb(207, 161, 104);
+}
+#Maincourses{
+    background-color:pink;
+}
+#Desserts{
+    background-color: yellow;
+
+    
+}
+
+#testing{
+    background-color: rgb(82, 100, 94);
+}
+#testing1{
+    background-color: rgb(132, 148, 240);
+}
+#testing2{
+    background-color: rgb(16, 168, 118);
+}
+dt{
+    font-weight: bold;
+}
+section{
+    padding: 10%;
+    margin-inline: 5px;
+    border-radius: 5px;
+
+}
+h2{
+    margin-left: 5%;
+}
+#links p{
+    margin-left: 5%;
+    
+}
+img{
+    padding: 5%;
+    height: 50px;
+}
